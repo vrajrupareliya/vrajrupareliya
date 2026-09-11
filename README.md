@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-🥭 I Write code and play chess
+I Write code and play chess
 
-🥭 See my [portfolio](https://vrajrupareliya.vercel.app)
+See my [portfolio](https://vrajrupareliya.vercel.app)
 
 <!--
 **vrajrupareliya/vrajrupareliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
