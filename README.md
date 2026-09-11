@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I Write code and play chess
+I write code and play chess
 
 See my [portfolio](https://vrajrupareliya.vercel.app)
 
