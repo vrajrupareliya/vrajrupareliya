@@ -1,8 +1,8 @@
-## Hello there 👋
+<img width="1200" height="630" alt="opengraph-image" src="https://github.com/user-attachments/assets/a7d08a80-29fc-4dc8-8268-2b3fe0574e10" />
 
-I write code and play chess
+I care deeply about visual craft and obsess over the small details that make an interface feel right and human.
 
-See my [portfolio](https://vrajrupareliya.vercel.app)
+I spend most of my time designing databases and building APIs, creating dynamic web experiences, favoring fast setups that don't require constant babysitting to stay online.
 
 <!--
 **vrajrupareliya/vrajrupareliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
