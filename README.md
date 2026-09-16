@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="opengraph-image" src="https://github.com/user-attachments/assets/a7d08a80-29fc-4dc8-8268-2b3fe0574e10" />
+<img width="1200" height="630" alt="opengraph-image" src="https://github.com/user-attachments/assets/71eb1705-a097-4c9d-8881-a056ea94d447" />
 
 I care deeply about visual craft and obsess over the small details that make an interface feel right and human.
 
